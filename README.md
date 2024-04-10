@@ -32,7 +32,7 @@ Learn to manipulate and present data effectively with our engaging data table tu
 This tutorial series is brought to you by  <a href="https://www.youtube.com/@jsdevani">JS DEV ANI</a> , where we focus on providing quality content for learners like you. Subscribe for regular updates and join our growing community of web developers!
 
 <p align="center">
-  <a href="https://www.youtu.be/T5PYDsscpto](https://www.youtube.com/@jsdevani">
+  <a href="https://www.youtube.com/@jsdevani">
     <img src="https://github.com/Freelancedevani/-Sortable-Table-Using-LocalStorage/assets/77118239/414bef97-dcf2-4d04-b728-fe334d99c71e" alt="YouTube" />
   </a>
 </p>
